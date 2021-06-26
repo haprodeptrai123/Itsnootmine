@@ -1,0 +1,48 @@
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csprojAssemblyReference.cache
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\Study\Summer2021\PRN211\Demos\Assignment\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csprojAssemblyReference.cache
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\User-PC\Downloads\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.csprojAssemblyReference.cache
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\Study\Summer2021\PRN211\Demos\Ass01Solution - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\Admin\source\repos\Assignment01\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
